@@ -11,7 +11,7 @@
       <Buffers Value="40"/>
     </EventCollector>
 
-    <EventProvider Name="CBF3ADCD-42B1-4C38-830C-91980AF201F8" Id="OpenXRTemplate" />
+    <EventProvider Name="B0363059-94F1-49CE-BF67-7B33DC1F9D9D" Id="OpenXR.VirtualWheel" />
 
     <!-- Watson logging -->
     <EventProvider Name="1377561D-9312-452C-AD13-C4A1C9C906E0" Id="Microsoft.Windows.FaultReporting" />

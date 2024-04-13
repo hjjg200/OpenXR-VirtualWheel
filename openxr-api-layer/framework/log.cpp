@@ -30,10 +30,10 @@ namespace {
 namespace openxr_api_layer::log {
     extern std::ofstream logStream;
 
-    // {cbf3adcd-42b1-4c38-830c-91980af201f8}
+    // {b0363059-94f1-49ce-bf67-7b33dc1f9d9d}
     TRACELOGGING_DEFINE_PROVIDER(g_traceProvider,
-                                 "OpenXRTemplate",
-                                 (0xcbf3adcd, 0x42b1, 0x4c38, 0x83, 0x0c, 0x91, 0x98, 0x0a, 0xf2, 0x01, 0xf8));
+                                 "OpenXR.VirtualWheel",
+                                 (0xb0363059, 0x94f1, 0x49ce, 0xbf, 0x67, 0x7b, 0x33, 0xdc, 0x1f, 0x9d, 0x9d));
 
     TraceLoggingActivity<g_traceProvider> g_traceActivity;
 
